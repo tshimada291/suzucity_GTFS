@@ -12,7 +12,7 @@ feed url：https://tshimada291.github.io/suzucity_GTFS/suzucity_gtfs.zip
 * 「市営路線バス（三崎線）」「市営路線バス（小屋線）」「市街地循環バス（まちなかバス　すずらん）」、[珠洲市オープンデータ](http://www.city.suzu.lg.jp/soumu/opendata_index.html)（[CC BY](https://creativecommons.org/licenses/by/2.0/)）
 
 ### 更新情報
-* 2017.11.26 公開予定
+* 2017.11.26 公開
 * 2017.11.25 作成
 
 ## 参考
