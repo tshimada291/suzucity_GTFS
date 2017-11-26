@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,jp_parent_route_id
+misaki,2000020172057_1,,珠洲市営バス 三崎線,北鉄バスによる運行便あり,3,http://www.city.suzu.lg.jp/kikakuzaisei/public_transport_misaki.html,FFCC00,,
+oya0,2000020172057_1,,珠洲市営バス 小屋線（鵜飼本町～大町）,,3,http://www.city.suzu.lg.jp/kikakuzaisei/public_transport_oya.html,800080,ffffff,
+oya1,2000020172057_1,,珠洲市営バス 小屋線（大町～鵜飼本町）,,3,http://www.city.suzu.lg.jp/kikakuzaisei/public_transport_oya.html,800080,ffffff,
+suzuran,2000020172057_1,,まちなかバス すずらん,市街地循環バス,3,http://www.city.suzu.lg.jp/kikakuzaisei/public_transport_suzuran.html,2290C7,ffffff,

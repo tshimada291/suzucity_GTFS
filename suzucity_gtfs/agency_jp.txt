@@ -1,0 +1,2 @@
+agency_id,agency_official_name,agency_zip_number,agency_address,agency_president_pos,agency_president_name
+2000020172057_1,珠洲市,927-1295,石川県珠洲市上戸町北方１字６番地の２,,

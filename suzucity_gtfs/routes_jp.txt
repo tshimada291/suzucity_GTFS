@@ -1,0 +1,5 @@
+route_id,route_update_date,origin_stop,via_stop,destination_stop
+misaki,20141101,大屋,,飯田高校下
+oya0,20141101,大町,,鵜飼本町
+oya1,20141101,鵜飼本町,,大町
+suzuran,20141101,すずなり館前,市役所前,すずなり館前
