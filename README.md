@@ -2,6 +2,12 @@
 石川県珠洲市営バスの路線・時刻表のGTFSデータです。
 珠洲市の公開するオープンデータを基に作成しています。
 
+**(2020.08.13) 珠洲市の公式サイトでGTFS-JPオープンデータが公開されました。**
+
+**[オープンデータへの取組（珠洲市）](https://www.city.suzu.lg.jp/soumu/opendata_index.html)**
+
+
+## feed url
 feed url：https://tshimada291.github.io/suzucity_GTFS/suzucity_gtfs.zip
 （[google feedvalidator](https://developers.google.com/transit/tools?hl=ja) 検証済み）
 
